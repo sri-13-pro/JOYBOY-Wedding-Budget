@@ -49,6 +49,6 @@ Prototype for event budgeting tools
 
 👨‍💻 Author
 
-Srinath Rajasekar R
-Ramanishwaran R
-Saran D
+Srinath Rajasekar R,
+Ramanishwaran R,
+Saran D.
