@@ -1,12 +1,12 @@
-💍 JOYBOY WeddingBudget.ai
+✓ JOYBOY WeddingBudget.ai
 
 AI-powered wedding budget estimator for India.
 
-📌 Overview
+✓  Overview
 
 This project is a web-based application that helps users estimate wedding budgets based on inputs like guest count, venue type, number of functions, and services.
 
-✨ Features
+✓  Features
 
 Budget estimation based on user inputs
 
@@ -18,13 +18,13 @@ Budget breakdown view
 
 Basic AI chat assistant UI
 
-🛠️ Tech Stack
+✓  Tech Stack
 
 HTML
 
 CSS
 
-🚀 How to Run
+✓  How to Run
 
 Download or clone the repository
 
@@ -34,12 +34,12 @@ JOYBOY WeddingBudget.html
 
 (Or use Live Server)
 
-📂 Project Structure
+✓  Project Structure
 JOYBOY-WeddingBudget/
 │
 ├── JOYBOY WeddingBudget.html
 ├── README.md
-🎯 Use Case
+✓  Use Case
 
 Wedding planning
 
@@ -47,7 +47,7 @@ UI/UX project demonstration
 
 Prototype for event budgeting tools
 
-👨‍💻 Author
+✓  Author
 
 Srinath Rajasekar R,
 Ramanishwaran R,
