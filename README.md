@@ -1,4 +1,4 @@
-# 💍 WeddingBudget-ai
+# 💍 WeddingBudget-ai   
 
 An AI-powered wedding budget estimation platform that helps wedding planners, event organizers, and clients generate accurate, data-driven wedding budget estimates. The platform combines intelligent cost prediction, décor analysis, logistics planning, artist pricing, and detailed budget reporting to simplify the wedding planning process.
 
@@ -11,6 +11,7 @@ Planning a wedding budget is often based on experience and manual estimation, ma
 The platform enables planners to estimate costs based on multiple parameters such as city, hotel category, guest count, décor preferences, entertainment, logistics, food & beverage requirements, and miscellaneous services.
 
 ---
+
 
 # ✨ Key Features
 
