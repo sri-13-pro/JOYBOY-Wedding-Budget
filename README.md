@@ -158,24 +158,6 @@ Generate:
 
 ---
 
-# 📂 Project Structure
-
-```text
-WeddingBudget-AI/
-│
-├── client/
-├── server/
-├── admin/
-├── ml/
-├── scraper/
-├── database/
-├── reports/
-├── assets/
-└── README.md
-```
-
----
-
 # 🚀 Getting Started
 
 ## Clone the Repository
